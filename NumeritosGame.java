@@ -1,6 +1,6 @@
 package numeritosgame;
 
-/*
+/**
  * @author NAHUEL
  */
 public class NumeritosGame {
