@@ -1,7 +1,7 @@
 package numeritosgame;
 import java.util.Scanner;
 
-/*
+/**
  * @author NAHUEL
  */
 public class Numeros {
